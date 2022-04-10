@@ -1,5 +1,7 @@
 import React from 'react';
 
+let index = 0;
+
 export default function Card(props) {
     return (
         <div className="project-card">
