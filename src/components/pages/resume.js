@@ -4,7 +4,7 @@ import '../../assets/css/contact.css';
 export default function Resume() {
     return (
         <div className="resume-section" id="resume">
-            <a href="https://docs.google.com/document/d/1WVlfeQWOtqWu7di1PzotCGvLZzIRFZGdjOhmlnZfro4/edit?usp=sharing" target="_blank" rel="noreferrer">
+            <a href="" target="_blank" rel="noreferrer">
                 <button className="link-list form" id="dl-btn" >Download Resume</button>
             </a>  
             <ul className='default-tag-structure resume-list'>

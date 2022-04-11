@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/github.io/AP-DeveloperPortfolio/static/css/main.abd16764.chunk.css",
+    "main.css": "/github.io/AP-DeveloperPortfolio/static/css/main.05ce5177.chunk.css",
     "main.js": "/github.io/AP-DeveloperPortfolio/static/js/main.c799591c.chunk.js",
     "main.js.map": "/github.io/AP-DeveloperPortfolio/static/js/main.c799591c.chunk.js.map",
     "runtime-main.js": "/github.io/AP-DeveloperPortfolio/static/js/runtime-main.c3d2ad4c.js",
@@ -10,7 +10,7 @@
     "static/js/3.c0922575.chunk.js": "/github.io/AP-DeveloperPortfolio/static/js/3.c0922575.chunk.js",
     "static/js/3.c0922575.chunk.js.map": "/github.io/AP-DeveloperPortfolio/static/js/3.c0922575.chunk.js.map",
     "index.html": "/github.io/AP-DeveloperPortfolio/index.html",
-    "static/css/main.abd16764.chunk.css.map": "/github.io/AP-DeveloperPortfolio/static/css/main.abd16764.chunk.css.map",
+    "static/css/main.05ce5177.chunk.css.map": "/github.io/AP-DeveloperPortfolio/static/css/main.05ce5177.chunk.css.map",
     "static/js/2.5ee94f40.chunk.js.LICENSE.txt": "/github.io/AP-DeveloperPortfolio/static/js/2.5ee94f40.chunk.js.LICENSE.txt",
     "static/media/Berlin.1802b3f0.png": "/github.io/AP-DeveloperPortfolio/static/media/Berlin.1802b3f0.png",
     "static/media/bkse.63d32e2f.png": "/github.io/AP-DeveloperPortfolio/static/media/bkse.63d32e2f.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.c3d2ad4c.js",
     "static/js/2.5ee94f40.chunk.js",
-    "static/css/main.abd16764.chunk.css",
+    "static/css/main.05ce5177.chunk.css",
     "static/js/main.c799591c.chunk.js"
   ]
 }

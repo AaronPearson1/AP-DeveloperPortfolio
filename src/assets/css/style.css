@@ -15,11 +15,19 @@
 
 body {
     font-family: 'Flamenco', cursive;
-    background-color: var(--background-color);
+    background-color: rgb(50, 50, 50);
     color: var(--text-color);
     font-weight: 300;
     display: block;
     position: relative;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: small-caption;
+    color: tan;
+    vertical-align: baseline;
 }
 
 /* default styling for tags */
@@ -33,6 +41,9 @@ body {
     margin-bottom: 50px;
     justify-content: space-around;
     overflow: hidden;
+}
+img.headShot{
+    border-radius: 10px!important;
 }
 
 #nav-section {
@@ -67,6 +78,9 @@ body {
 .nav-link.active {
     box-shadow: 0px 0px 4px rgb(82, 82, 82);
 }
+a.nav-link:hover{
+    background-color: tan;
+}
 
 /* header image class */
 .headShot {
@@ -88,7 +102,7 @@ section.default-tag-structure {
 
 p.article-text {
     margin: 50px 50px 0px 50px;
-    font-size: 1.3rem;
+    font-size: 18px;
 }
 
 footer.default-tag-structure {
@@ -198,7 +212,7 @@ h3 {
 p {
     text-align: center;
     margin: 10px 50px 0px 50px;
-    font-size: 1.6rem;
+    font-size: 18px;
     line-height: 2.6rem;
     /* border-bottom: 1px solid var(--text-color); */
 }
@@ -258,6 +272,7 @@ footer.main-section {
 
 .resume-list li {
     text-align: center;
+    padding: 5px;
 }
 
 .form {
